@@ -7,3 +7,5 @@ https://www.kaggle.com/meetnaren/goodreads-best-books
 ## Classifiers
 #### CoverClassifier-Binary-(Non)Fiction
 A binary classification CNN model with book covers as input. 
+#### CoverClassifier
+A multilabel classification CNN model with book covers as input. 
